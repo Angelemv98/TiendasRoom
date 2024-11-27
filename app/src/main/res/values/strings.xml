@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Tienda Room</string>
+    <string name="app_name">Room Store</string>
+    <string name="desc_img_photo">DescIMGPhoto</string>
+    <string name="add_new_store">add new store</string>
+    <string name="store_name">Store Name</string>
+    <string name="save">Save</string>
 </resources>
