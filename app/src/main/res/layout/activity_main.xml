@@ -22,6 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="@dimen/def"
         android:hint="@string/store_name"
+        android:inputType="textCapWords"
         app:layout_constraintBottom_toBottomOf="@id/btnSave"
         app:layout_constraintEnd_toStartOf="@id/btnSave"
         app:layout_constraintStart_toStartOf="parent"
