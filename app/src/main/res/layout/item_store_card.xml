@@ -40,7 +40,6 @@
             android:id="@+id/cbFavorite"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:checked="true"
             android:button="@drawable/state_checkbox_favorite"
             android:buttonTint="@color/white"
             app:layout_constraintTop_toTopOf="parent"
